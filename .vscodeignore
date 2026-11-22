@@ -1,0 +1,9 @@
+# 只打包插件运行所需文件：package.json + src/ + scripts/ + readme.md
+TestA/**
+TestB/**
+logs/**
+.zcode/**
+.vscodeignore
+**/build.sh
+*.vsix
+.DS_Store

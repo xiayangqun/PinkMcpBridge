@@ -1,0 +1,14 @@
+# 实验项目（本机创建的测试工程，不入库）
+TestA/
+TestB/
+
+# 构建产物
+*.vsix
+
+# 运行时产物
+logs/
+node_modules/
+.DS_Store
+
+# ZCode 会话产物
+.zcode/
